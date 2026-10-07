@@ -1239,3 +1239,12 @@ if __name__ == "__main__":
         main()
     except KeyboardInterrupt:
         print("\n\n   Intrerupt. Codul tau ramane salvat in fisier.\n")
+
+
+
+
+
+
+
+xe58r6cd9ft7g8y69h0]-jk
+rp:G"<v/f,s.nlh"
